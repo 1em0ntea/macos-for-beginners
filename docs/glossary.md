@@ -13,6 +13,11 @@
 | 程序坞 | Dock | 常用应用和部分文件夹的快捷入口 |
 | 访达 | Finder | 浏览与管理文件、文件夹和磁盘的应用 |
 | 个人 / 用户文件夹 | Home Folder | 当前用户的个人文件夹，可从访达“前往 → 个人”打开 |
+| 文稿文件夹 | Documents Folder | 访达中名为“文稿”的文件夹，是保存文件的位置 |
+| 文稿文件 | Document | 一份可以打开、编辑或阅读的内容，不限定存放在“文稿”文件夹 |
+| 原件 / 原文件 | Original File | 复制操作中被拿来复制的那份文件 |
+| 副本 | Copy | 拷贝后生成的另一份文件，修改或删除副本不会直接修改或删除原件 |
+| 本地文件 | Local File | 内容已保存在这台 Mac 上的文件，仍可能参与云端同步 |
 | 聚焦 | Spotlight | 搜索应用、文件等内容的系统工具 |
 | 控制中心 | Control Center | 集中调整声音、网络等快速设置的区域 |
 | 系统设置 | System Settings | 更改系统与个人偏好的应用 |
@@ -47,11 +52,12 @@
 | iCloud 钥匙串 | iCloud Keychain | 在获准设备间同步密码等登录信息的 Apple 服务 |
 | iCloud 云盘 | iCloud Drive | 在设备之间同步文件的 Apple 服务 |
 | 时间机器 | Time Machine | 为 Mac 文件保存历史备份的内建功能 |
+| 独立备份 | Independent Backup | 另存于这台 Mac 之外、用于找回资料的副本，需确认复制或备份成功 |
 | 文件保险箱 | FileVault | 限制启动磁盘数据访问的保护功能 |
 | 恢复密钥 | Recovery Key | 特定恢复场景使用的凭据，文件保险箱与 Apple 账户的恢复密钥是两种不同凭据 |
 | 蓝牙配对 | Bluetooth Pairing | 让电脑与附近的无线配件建立连接关系 |
 | 镜像显示 | Display Mirroring | 两块屏幕显示同一份桌面内容 |
-| 扩展显示 | Extended Desktop | 将桌面空间延伸到另一块屏幕 |
+| 扩展显示 | Extended Desktop | 将桌面工作区域延伸到另一块屏幕，可在不同屏幕分别摆放窗口 |
 | 隔空打印 | AirPrint | 兼容打印机可使用的系统打印方式，通常无需额外安装驱动 |
 | 隔空投送 | AirDrop | 在附近的 Apple 设备之间发送文件的功能 |
 | 迁移助理 | Migration Assistant | 将旧电脑或备份中的资料迁入 Mac 的工具 |

@@ -41,7 +41,7 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | 常用快捷键 | [基础键盘快捷键](https://support.apple.com/zh-cn/guide/mac-help/mchlgtd_kbd01/mac)、[完整快捷键列表](https://support.apple.com/zh-cn/102650) |
 | 文字粘贴 | [拷贝、剪切、粘贴与匹配样式](https://support.apple.com/zh-cn/102553) |
 | 触控板 | [多点触控手势](https://support.apple.com/zh-cn/102482) |
-| 中文输入 | [设置中文或粤语输入法](https://support.apple.com/zh-cn/guide/chinese-input-method/cim6023ab944/mac)、[切换输入法](https://support.apple.com/zh-cn/guide/mac-help/mchlp1406/mac) |
+| 中文输入 | [设置中文或粤语输入法](https://support.apple.com/zh-cn/guide/chinese-input-method/cim6023ab944/mac)、[切换输入法](https://support.apple.com/zh-cn/guide/mac-help/mchlp1406/mac)、[使用候选字窗口（英文）](https://support.apple.com/guide/chinese-input-method/use-the-candidate-window-cim12992/mac) |
 | 文件管理 | [使用访达](https://support.apple.com/zh-cn/guide/mac-help/mchlp2605/mac)、[整理文件](https://support.apple.com/zh-cn/guide/mac-help/mchle9f0a1b2/mac)、[预览文件](https://support.apple.com/zh-cn/guide/mac-help/mchlgtd_prev01/mac) |
 | 文件多选与查找 | [选择项目](https://support.apple.com/zh-cn/guide/mac-help/mchlp1378/mac)、[访达设置与搜索范围](https://support.apple.com/zh-cn/guide/mac-help/mchlp2803/mac)、[找不到文件](https://support.apple.com/zh-cn/guide/mac-help/mchlp2305/mac) |
 | 文件视图与边栏 | [视图、排序与排列](https://support.apple.com/zh-cn/guide/mac-help/mchlp1745/mac)、[边栏入口](https://support.apple.com/zh-cn/guide/mac-help/mchl83c9e8b8/mac) |
@@ -49,8 +49,9 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | 默认应用 | [默认浏览器](https://support.apple.com/zh-cn/102362)、[文件打开方式与全部更改](https://support.apple.com/zh-cn/guide/mac-help/mh35597/mac) |
 | ZIP 文件 | [压缩与解压缩](https://support.apple.com/zh-cn/guide/mac-help/mchlp2528/mac) |
 | 软件安装 | [安装和卸载互联网应用](https://support.apple.com/zh-cn/guide/mac-help/mh35835/mac)、[卸载应用](https://support.apple.com/zh-cn/102610)、[安全打开应用](https://support.apple.com/zh-cn/102445) |
+| 管理员验证 | [需要管理员名称和密码时](https://support.apple.com/zh-cn/guide/mac-help/mhosxlogo1438/27/mac/27) |
 | 旧应用兼容性 | [Intel Mac 应用与 Rosetta](https://support.apple.com/zh-cn/102527) |
-| 窗口 | [移动和排列窗口](https://support.apple.com/zh-cn/guide/mac-help/mchlp2469/mac)、[平铺窗口](https://support.apple.com/zh-cn/guide/mac-help/mchlef287e5d/mac)、[Sequoia 15 功能说明](https://support.apple.com/zh-cn/120283) |
+| 窗口 | [移动和排列窗口](https://support.apple.com/zh-cn/guide/mac-help/mchlp2469/mac)、[进入与退出全屏](https://support.apple.com/zh-cn/guide/mac-help/mchl9c21d2be/mac)、[平铺窗口](https://support.apple.com/zh-cn/guide/mac-help/mchlef287e5d/mac)、[Sequoia 15 功能说明](https://support.apple.com/zh-cn/120283) |
 | 截图与录屏 | [截图](https://support.apple.com/zh-cn/102646)、[录屏](https://support.apple.com/zh-cn/102618) |
 | PDF 与标记 | [保存为 PDF](https://support.apple.com/zh-cn/guide/mac-help/mchlp1531/mac)、[标记文件](https://support.apple.com/zh-cn/guide/mac-help/mchl1fd88863/mac) |
 | 分享 | [隔空投送](https://support.apple.com/zh-cn/guide/mac-help/mh35868/mac) |
