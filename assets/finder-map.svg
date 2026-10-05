@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="diagram-title diagram-desc">
+<title id="diagram-title">访达：看清入口、列表和真实位置</title>
+<desc id="diagram-desc">列表视图的结构示意。下载文件夹打开，边栏提供常用入口，修改日期列可排序，底部路径栏显示选中文件的位置。</desc>
+<metadata>Original diagram for 1em0ntea/macos-for-beginners. CC BY 4.0. 2026-10-05. Not a screenshot.</metadata>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#245fc5"/></marker></defs>
+<g font-family="Microsoft YaHei UI, Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#18304a">
+<rect x="0" y="0" width="1280" height="760" rx="0" fill="#ffffff"/>
+<text x="44" y="55" font-size="34" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="1192">访达：看清入口、列表和真实位置</text>
+<text x="44" y="92" font-size="20" fill="#52677e" text-anchor="start" data-max-width="1192">原创示意图 · 先认操作对象，再按正文步骤尝试</text>
+<rect x="44" y="140" width="864" height="518" rx="12" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<rect x="44" y="140" width="864" height="64" rx="0" fill="#edf1f6"/>
+<circle cx="76" cy="169" r="7" fill="#f16d66"/>
+<circle cx="99" cy="169" r="7" fill="#efc14f"/>
+<circle cx="122" cy="169" r="7" fill="#6ab986"/>
+<text x="311" y="180" font-size="25" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="130">下载</text>
+<rect x="491" y="156" width="135" height="32" rx="7" fill="#edf4ff"/>
+<text x="558" y="179" font-size="18" fill="#18304a" text-anchor="middle" data-max-width="119">列表视图</text>
+<rect x="708" y="156" width="172" height="32" rx="7" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<text x="732" y="179" font-size="18" fill="#52677e" text-anchor="start" data-max-width="122">搜索</text>
+<rect x="44" y="204" width="201" height="407" rx="0" fill="#f1f5fa"/>
+<text x="91" y="246" font-size="18" fill="#52677e" text-anchor="start" data-max-width="145">个人收藏</text>
+<text x="87" y="295" font-size="20" fill="#18304a" text-anchor="start" data-max-width="144">桌面</text>
+<text x="87" y="333" font-size="20" fill="#18304a" text-anchor="start" data-max-width="144">文稿</text>
+<rect x="66" y="342" width="161" height="38" rx="7" fill="#dceaff"/>
+<text x="87" y="371" font-size="20" fill="#245fc5" text-anchor="start" data-max-width="144">下载</text>
+<text x="87" y="409" font-size="20" fill="#18304a" text-anchor="start" data-max-width="144">Mac 入门练习</text>
+<rect x="245" y="204" width="663" height="45" rx="0" fill="#f7f9fc"/>
+<text x="268" y="234" font-size="20" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="340">名称</text>
+<text x="635" y="234" font-size="20" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="143">修改日期 ↓</text>
+<text x="820" y="234" font-size="20" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="68">大小</text>
+<rect x="245" y="249" width="663" height="60" rx="0" fill="#edf4ff"/>
+<text x="268" y="288" font-size="23" fill="#245fc5" text-anchor="start" data-max-width="348">学习记录.pdf</text>
+<text x="636" y="288" font-size="19" fill="#52677e" text-anchor="start" data-max-width="156">10 月 5 日</text>
+<text x="820" y="288" font-size="17" fill="#52677e" text-anchor="start" data-max-width="76">180 KB</text>
+<rect x="245" y="309" width="663" height="60" rx="0" fill="#ffffff"/>
+<text x="268" y="348" font-size="23" fill="#18304a" text-anchor="start" data-max-width="348">会议资料.zip</text>
+<text x="636" y="348" font-size="19" fill="#52677e" text-anchor="start" data-max-width="156">10 月 4 日</text>
+<text x="820" y="348" font-size="17" fill="#52677e" text-anchor="start" data-max-width="76">42 MB</text>
+<rect x="245" y="369" width="663" height="60" rx="0" fill="#ffffff"/>
+<text x="268" y="408" font-size="23" fill="#18304a" text-anchor="start" data-max-width="348">练习图片.png</text>
+<text x="636" y="408" font-size="19" fill="#52677e" text-anchor="start" data-max-width="156">10 月 3 日</text>
+<text x="820" y="408" font-size="17" fill="#52677e" text-anchor="start" data-max-width="76">2 MB</text>
+<text x="269" y="500" font-size="21" fill="#52677e" text-anchor="start" data-max-width="604">排序改变排列，文件仍在原位置。</text>
+<rect x="44" y="611" width="864" height="47" rx="0" fill="#edf1f6"/>
+<text x="74" y="641" font-size="20" fill="#18304a" text-anchor="start" data-max-width="796">个人  ›  下载  ›  学习记录.pdf</text>
+<circle cx="67" cy="241" r="17" fill="#245fc5"/>
+<text x="67" y="248" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">1</text>
+<circle cx="279" cy="174" r="17" fill="#245fc5"/>
+<text x="279" y="181" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">2</text>
+<circle cx="610" cy="227" r="17" fill="#245fc5"/>
+<text x="610" y="234" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">3</text>
+<circle cx="65" cy="597" r="17" fill="#245fc5"/>
+<text x="65" y="604" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">4</text>
+<circle cx="970" cy="157" r="17" fill="#245fc5"/>
+<text x="970" y="164" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">1</text>
+<text x="1000" y="165" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">边栏入口</text>
+<text x="952" y="205" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">把常用文件夹放在这里。</text>
+<text x="952" y="234" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">移除入口不会删除原文件。</text>
+<circle cx="970" cy="288" r="17" fill="#245fc5"/>
+<text x="970" y="295" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">2</text>
+<text x="1000" y="296" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">当前文件夹</text>
+<text x="952" y="336" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">先确认正在查看什么位置。</text>
+<text x="952" y="365" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">“最近使用”是汇总视图。</text>
+<circle cx="970" cy="419" r="17" fill="#245fc5"/>
+<text x="970" y="426" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">3</text>
+<text x="1000" y="427" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">列表与排序</text>
+<text x="952" y="467" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">点列标题改变排列顺序。</text>
+<text x="952" y="496" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">可按日期或文件大小查看。</text>
+<circle cx="970" cy="550" r="17" fill="#245fc5"/>
+<text x="970" y="557" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">4</text>
+<text x="1000" y="558" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">路径栏</text>
+<text x="952" y="598" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">显示选中文件的真实位置。</text>
+<text x="952" y="627" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">从“显示”菜单开启。</text>
+<line x1="44" y1="695" x2="1236" y2="695" stroke="#c9d6e4" stroke-width="1" stroke-linecap="round"/>
+<text x="44" y="730" font-size="18" fill="#52677e" text-anchor="start" data-max-width="1192">适用范围：macOS Ventura 13 及之后的通用概念 · 外观与位置以实际系统为准</text>
+</g>
+</svg>

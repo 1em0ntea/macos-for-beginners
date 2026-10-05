@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="diagram-title diagram-desc">
+<title id="diagram-title">保存文件：先看名称、位置和格式</title>
+<desc id="diagram-desc">存储对话框结构示意。文稿名为我的第一份文稿，选择本机文稿文件夹，保留RTF格式，最后点击存储。</desc>
+<metadata>Original diagram for 1em0ntea/macos-for-beginners. CC BY 4.0. 2026-10-05. Not a screenshot.</metadata>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#245fc5"/></marker></defs>
+<g font-family="Microsoft YaHei UI, Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#18304a">
+<rect x="0" y="0" width="1280" height="760" rx="0" fill="#ffffff"/>
+<text x="44" y="55" font-size="34" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="1192">保存文件：先看名称、位置和格式</text>
+<text x="44" y="92" font-size="20" fill="#52677e" text-anchor="start" data-max-width="1192">原创示意图 · 先认操作对象，再按正文步骤尝试</text>
+<rect x="44" y="140" width="864" height="518" rx="12" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<rect x="44" y="140" width="864" height="61" rx="0" fill="#edf1f6"/>
+<text x="80" y="179" font-size="25" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="787">存储你的文稿</text>
+<text x="106" y="247" font-size="23" fill="#18304a" text-anchor="start" data-max-width="112">名称</text>
+<rect x="235" y="211" width="606" height="51" rx="12" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<text x="257" y="245" font-size="23" fill="#18304a" text-anchor="start" data-max-width="562">我的第一份文稿</text>
+<text x="106" y="316" font-size="23" fill="#18304a" text-anchor="start" data-max-width="112">位置</text>
+<rect x="235" y="280" width="606" height="51" rx="12" fill="#edf4ff" stroke="#c9d6e4" stroke-width="2"/>
+<text x="257" y="314" font-size="23" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="562">本机 · 文稿</text>
+<rect x="106" y="354" width="735" height="135" rx="8" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<rect x="106" y="354" width="183" height="135" rx="0" fill="#f1f5fa"/>
+<text x="128" y="385" font-size="18" fill="#52677e" text-anchor="start" data-max-width="140">个人收藏</text>
+<text x="129" y="424" font-size="21" fill="#245fc5" text-anchor="start" font-weight="700" data-max-width="137">文稿</text>
+<text x="129" y="465" font-size="21" fill="#52677e" text-anchor="start" data-max-width="137">下载</text>
+<text x="314" y="393" font-size="22" fill="#18304a" text-anchor="start" data-max-width="502">进入目标文件夹，再点“存储”。</text>
+<text x="314" y="434" font-size="20" fill="#52677e" text-anchor="start" data-max-width="502">需要时可在这里新建文件夹。</text>
+<text x="106" y="546" font-size="23" fill="#18304a" text-anchor="start" data-max-width="112">格式</text>
+<rect x="235" y="510" width="606" height="51" rx="12" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<text x="257" y="545" font-size="23" fill="#18304a" text-anchor="start" data-max-width="562">多信息文本（.rtf）</text>
+<rect x="565" y="591" width="130" height="43" rx="9" fill="#ffffff" stroke="#c9d6e4" stroke-width="2"/>
+<text x="630" y="621" font-size="22" fill="#18304a" text-anchor="middle" data-max-width="110">取消</text>
+<rect x="710" y="591" width="130" height="43" rx="9" fill="#245fc5"/>
+<text x="775" y="621" font-size="22" fill="#ffffff" text-anchor="middle" data-max-width="110">存储</text>
+<circle cx="76" cy="237" r="17" fill="#245fc5"/>
+<text x="76" y="244" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">1</text>
+<circle cx="76" cy="306" r="17" fill="#245fc5"/>
+<text x="76" y="313" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">2</text>
+<circle cx="76" cy="536" r="17" fill="#245fc5"/>
+<text x="76" y="543" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">3</text>
+<circle cx="867" cy="612" r="17" fill="#245fc5"/>
+<text x="867" y="619" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">4</text>
+<circle cx="970" cy="157" r="17" fill="#245fc5"/>
+<text x="970" y="164" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">1</text>
+<text x="1000" y="165" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">叫什么</text>
+<text x="952" y="205" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">给文稿一个清楚的名称。</text>
+<text x="952" y="234" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">同名时先取消，再改名。</text>
+<circle cx="970" cy="288" r="17" fill="#245fc5"/>
+<text x="970" y="295" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">2</text>
+<text x="1000" y="296" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">放在哪里</text>
+<text x="952" y="336" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">展开对话框选择文件夹。</text>
+<text x="952" y="365" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">存好后用访达检查位置。</text>
+<circle cx="970" cy="419" r="17" fill="#245fc5"/>
+<text x="970" y="426" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">3</text>
+<text x="1000" y="427" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">是什么格式</text>
+<text x="952" y="467" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">保留应用建议的格式。</text>
+<text x="952" y="496" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">改后缀不会完成格式转换。</text>
+<circle cx="970" cy="550" r="17" fill="#245fc5"/>
+<text x="970" y="557" font-size="21" fill="#ffffff" text-anchor="middle" font-weight="700" data-max-width="25">4</text>
+<text x="1000" y="558" font-size="24" fill="#18304a" text-anchor="start" font-weight="700" data-max-width="234">最后确认</text>
+<text x="952" y="598" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">点“存储”，再重新打开。</text>
+<text x="952" y="627" font-size="20" fill="#52677e" text-anchor="start" data-max-width="282">选择“替换”可能覆盖原件。</text>
+<line x1="44" y1="695" x2="1236" y2="695" stroke="#c9d6e4" stroke-width="1" stroke-linecap="round"/>
+<text x="44" y="730" font-size="18" fill="#52677e" text-anchor="start" data-max-width="1192">适用范围：macOS Ventura 13 及之后的通用概念 · 外观与位置以实际系统为准</text>
+</g>
+</svg>

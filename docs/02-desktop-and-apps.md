@@ -16,6 +16,10 @@
 
 程序坞和菜单栏可以自动隐藏。把指针移到相应的屏幕边缘，它们通常就会出现。这些区域的含义可参考 [Apple 桌面入门说明](https://support.apple.com/zh-cn/guide/mac-help/mchlws12345m2/mac)。
 
+![桌面结构示意：顶部是随当前应用变化的菜单栏，中间是应用窗口，底部是程序坞，右上方是状态项目](../assets/desktop-map.svg)
+
+这张原创示意图帮助你认位置，说明 macOS Ventura 13 及之后的通用概念。实际外观与布局以自己的电脑为准，见[配图说明](../assets/README.md)。
+
 ## 2. 最省事的应用入口：聚焦
 
 “聚焦”（Spotlight）是系统搜索工具。

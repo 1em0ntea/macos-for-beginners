@@ -21,6 +21,9 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | 截图格式或录制窗口选项不同 | 较新系统与硬件加入了额外选项 | 以截图工具栏实际提供的选项为准 |
 | 找不到“密码”独立应用 | 该应用从 Sequoia 15 起提供 | Ventura 13、Sonoma 14 可在系统设置或 Safari 设置中查看密码 |
 | iCloud 文件菜单没有“保留下载” | 系统版本或当前文件状态不同 | 使用实际提供的下载选项，出门前打开检查所需文件 |
+| 文稿没有“复制”“存储为”或“浏览所有版本” | 应用、文件格式或菜单名称不同 | 查看“文件”菜单和应用帮助，用访达副本保留原件 |
+| 外接显示器没有镜像或扩展选项 | 未识别第二块屏幕，或机型与连接方式限制 | 先核对端口、线缆和对应机型的显示器支持 |
+| 没有充电上限、扫描文字识别等选项 | 系统、硬件或软件支持情况不同 | 以当前设备提供的选项为准，不把较新功能当成完成练习的条件 |
 | 旧款 Intel Mac 应用提示 Rosetta 或无法运行 | 芯片与系统兼容性不同 | 优先获取 Apple 芯片或通用版本，查看当前 Rosetta 支持范围 |
 | 某些设置无法修改 | 权限限制或组织设备管理 | 联系设备管理员 |
 
@@ -36,10 +39,14 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | 按需启用 iCloud | [登录后的 iCloud 设置](https://support.apple.com/zh-cn/102314)、[停用桌面与文稿同步](https://support.apple.com/zh-cn/126628) |
 | 桌面与入口 | [桌面、菜单栏和程序坞](https://support.apple.com/zh-cn/guide/mac-help/mchlws12345m2/mac) |
 | 常用快捷键 | [基础键盘快捷键](https://support.apple.com/zh-cn/guide/mac-help/mchlgtd_kbd01/mac)、[完整快捷键列表](https://support.apple.com/zh-cn/102650) |
+| 文字粘贴 | [拷贝、剪切、粘贴与匹配样式](https://support.apple.com/zh-cn/102553) |
 | 触控板 | [多点触控手势](https://support.apple.com/zh-cn/102482) |
 | 中文输入 | [设置中文或粤语输入法](https://support.apple.com/zh-cn/guide/chinese-input-method/cim6023ab944/mac)、[切换输入法](https://support.apple.com/zh-cn/guide/mac-help/mchlp1406/mac) |
 | 文件管理 | [使用访达](https://support.apple.com/zh-cn/guide/mac-help/mchlp2605/mac)、[整理文件](https://support.apple.com/zh-cn/guide/mac-help/mchle9f0a1b2/mac)、[预览文件](https://support.apple.com/zh-cn/guide/mac-help/mchlgtd_prev01/mac) |
 | 文件多选与查找 | [选择项目](https://support.apple.com/zh-cn/guide/mac-help/mchlp1378/mac)、[访达设置与搜索范围](https://support.apple.com/zh-cn/guide/mac-help/mchlp2803/mac)、[找不到文件](https://support.apple.com/zh-cn/guide/mac-help/mchlp2305/mac) |
+| 文件视图与边栏 | [视图、排序与排列](https://support.apple.com/zh-cn/guide/mac-help/mchlp1745/mac)、[边栏入口](https://support.apple.com/zh-cn/guide/mac-help/mchl83c9e8b8/mac) |
+| 文稿保存与副本 | [创建、另存和复制文稿](https://support.apple.com/zh-cn/guide/mac-help/mchldc1dd114/mac)、[查看和恢复文稿版本](https://support.apple.com/zh-cn/guide/mac-help/mh40710/mac) |
+| 默认应用 | [默认浏览器](https://support.apple.com/zh-cn/102362)、[文件打开方式与全部更改](https://support.apple.com/zh-cn/guide/mac-help/mh35597/mac) |
 | ZIP 文件 | [压缩与解压缩](https://support.apple.com/zh-cn/guide/mac-help/mchlp2528/mac) |
 | 软件安装 | [安装和卸载互联网应用](https://support.apple.com/zh-cn/guide/mac-help/mh35835/mac)、[卸载应用](https://support.apple.com/zh-cn/102610)、[安全打开应用](https://support.apple.com/zh-cn/102445) |
 | 旧应用兼容性 | [Intel Mac 应用与 Rosetta](https://support.apple.com/zh-cn/102527) |
@@ -57,6 +64,13 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | 云端删除 | [删除 iCloud 云盘文件的影响](https://support.apple.com/zh-cn/guide/icloud/mm3b7fcd0c10/icloud) |
 | 应用无响应 | [强制退出应用](https://support.apple.com/zh-cn/102586) |
 | 外置磁盘 | [无法向外置驱动器写入](https://support.apple.com/zh-cn/101830) |
+| 端口与配件允许提示 | [识别 Mac 端口](https://support.apple.com/zh-cn/109523)、[允许配件连接](https://support.apple.com/zh-cn/102282) |
+| 蓝牙配件 | [配对、声音设备选择和断开](https://support.apple.com/zh-cn/guide/mac-help/blth1004/mac) |
+| 外接屏幕 | [连接显示器](https://support.apple.com/zh-cn/guide/mac-help/mchl7c7ebe08/mac)、[扩展与镜像桌面](https://support.apple.com/zh-cn/guide/mac-help/mchlb5f905a1/mac) |
+| 电池与充电 | [未充满电与优化充电](https://support.apple.com/zh-cn/guide/mac-help/mchlbfb7e12a/mac) |
+| 纸质打印 | [添加打印机](https://support.apple.com/zh-cn/guide/mac-help/mh14004/mac)、[打印文稿](https://support.apple.com/zh-cn/guide/mac-help/mh35838/mac)、[排查打印队列与错误](https://support.apple.com/zh-cn/guide/mac-help/mh14002/mac) |
+| 扫描 | [设置扫描仪](https://support.apple.com/zh-cn/guide/mac-help/mh28039/mac)、[扫描至本地文件夹](https://support.apple.com/zh-cn/guide/mac-help/mh28032/mac) |
+| 登录密码恢复 | [忘记 Mac 登录密码](https://support.apple.com/zh-cn/102633)、[进入 macOS 恢复](https://support.apple.com/zh-cn/102518)、[激活锁](https://support.apple.com/zh-cn/102541) |
 | Windows 迁移 | [从 Windows 转用 Mac](https://support.apple.com/zh-cn/guide/mac-help/mchlbc684e49/mac)、[使用迁移助理从 PC 传输](https://support.apple.com/zh-cn/102565) |
 
 ## 继续阅读的前人教程
@@ -76,4 +90,4 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 
 发现入口变化时，先检查对应版本的官方手册，再更新章节和这里的核对日期。反馈请附 macOS 版本、所在章节和你实际看到的界面文字，说明具体卡在哪一步。
 
-未来若添加截图，需说明拍摄版本、清除个人信息，并保留素材权利说明。
+本教程现有配图为原创 SVG 示意图，适用范围与授权见[配图说明](../assets/README.md)。未来若添加实机截图，需说明拍摄版本、清除个人信息，并保留素材权利说明。

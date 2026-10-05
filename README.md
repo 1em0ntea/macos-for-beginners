@@ -25,11 +25,11 @@
 | --- | --- | --- |
 | [01 第一次使用 Mac](docs/01-first-steps.md) | 初次设置、联网、账户、锁屏与关机 | 15 分钟 |
 | [02 桌面、菜单栏与应用](docs/02-desktop-and-apps.md) | 找到入口，打开和退出应用，使用聚焦搜索 | 15 分钟 |
-| [03 键盘、触控板与中文输入](docs/03-keyboard-and-trackpad.md) | 认清按键符号、右键、滚动、输入中文 | 20 分钟 |
-| [04 访达与文件](docs/04-finder-and-files.md) | 保存、查找、多选、复制、移动和恢复文件 | 30 分钟 |
+| [03 键盘、触控板与中文输入](docs/03-keyboard-and-trackpad.md) | 认清按键、右键、中文输入、选择和修改文字 | 25 分钟 |
+| [04 访达与文件](docs/04-finder-and-files.md) | 保存与保留原稿、文件整理、查找、移动和恢复 | 40 分钟，可分两次 |
 | [05 安装与卸载应用](docs/05-install-and-remove-apps.md) | 看懂 App Store、DMG、PKG，安全安装应用 | 15 分钟 |
 | [06 窗口与多任务](docs/06-windows-and-multitasking.md) | 切换应用、找回窗口、全屏与并排工作 | 15 分钟 |
-| [07 完成一次日常工作](docs/07-everyday-work.md) | 浏览网页、截图、处理 PDF、分享文件 | 25 分钟 |
+| [07 完成一次日常工作](docs/07-everyday-work.md) | 浏览网页、默认应用、截图、处理 PDF、分享文件 | 30 分钟 |
 | [08 设置与隐私](docs/08-settings-and-privacy.md) | 调整文字与通知，管理权限，更新系统 | 20 分钟 |
 | [09 本地备份与可选的 iCloud](docs/09-backup-and-icloud.md) | 先设置时间机器并验证恢复，按需了解同步 | 25 分钟，另加备份等待 |
 | [10 常见问题与排查](docs/10-troubleshooting.md) | 应用卡住、找不到文件、无声、无法写入 U 盘 | 遇到问题时查阅 |
@@ -40,7 +40,9 @@
 - [Windows → Mac 对照](docs/windows-to-mac.md)：熟悉 Windows 的读者可以先看这里。
 - [术语表](docs/glossary.md)：访达、程序坞、聚焦、磁盘映像分别是什么。
 - [七天练习计划](docs/learning-plan.md)：用真实操作检查自己是否学会。
+- [配件、充电、打印与扫描](docs/accessories-and-printing.md)：按需连接耳机与外接屏幕、查看电池、使用打印机和扫描仪。有设备再读，不是基础练习的必做部分。
 - [版本差异与参考资料](docs/references.md)：官方说明，以及适合继续阅读的前人教程。
+- [配图说明](assets/README.md)：桌面、访达、存储对话框和 DMG 安装的原创示意图及素材授权。
 
 ## 如何读操作步骤
 
@@ -57,12 +59,14 @@
 
 官方资料核对日期：**2026-10-05**。本教程没有在每一种 Mac 和系统版本上逐项实机验证。找不到某个入口时，先在系统设置内搜索功能名，再参照[版本差异](docs/references.md)。公司或学校管理的 Mac，部分设置可能由管理员控制。
 
+章节配图是说明常见操作概念的原创示意图，适用范围和绘制日期见[配图说明](assets/README.md)。实际外观、按钮位置和功能支持情况以自己的系统为准。
+
 ## 发现错误或想补充内容
 
 欢迎通过 [Issues](https://github.com/1em0ntea/macos-for-beginners/issues) 告诉我们哪一步让你卡住，或提交修改。反馈时请写出 macOS 版本、教程章节和实际看到的提示，避免附上密码、验证码或完整设备序列号。详见[贡献说明](CONTRIBUTING.md)。
 
 ## 授权
 
-本仓库原创教程文字采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 授权。转载或改编时请注明项目名称、链接和修改情况。Apple 官方页面及其图片仍适用原权利人的条款。本仓库没有收录官方截图。完整协议见 [LICENSE](LICENSE)。
+本仓库原创教程文字和示意图采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 授权。转载或改编时请注明项目名称、链接和修改情况。Apple 官方页面及其图片仍适用原权利人的条款。本仓库没有收录官方截图。完整协议见 [LICENSE](LICENSE)。
 
 本项目是独立编写的入门资料，与 Apple 无隶属关系。

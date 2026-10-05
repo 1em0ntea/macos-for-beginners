@@ -12,6 +12,8 @@
 
 Apple 账户（也常被叫作“苹果账号”）用于 iCloud、App Store 等服务，与这台电脑的本地账户是两个概念。**本教程默认不登录 Apple 账户。** 看到相应页面时，选择“稍后设置”或界面提供的同类选项，再继续完成设置。基础的网页浏览、文件编辑和时间机器备份可以先用起来。[Apple 初次设置说明](https://support.apple.com/zh-cn/guide/mac-pro/apd831707cb3/mac)
 
+如果画面明确显示“激活锁”，并要求原所有者的账户，先看[第十章的对应说明](10-troubleshooting.md)。这与普通的可选账户登录页不同。
+
 希望自行控制账户和同步设置时，直接在 Mac 上完成设置。“通过 iPhone 或 iPad 设置”可能自动带入原设备的 Apple 账户和 iCloud 设置，不适合本教程默认的使用方式。[Apple 设备辅助设置说明](https://support.apple.com/zh-cn/122216)
 
 公司发的 Mac 请按公司给出的设置要求操作。

@@ -27,10 +27,15 @@
 | 辅助点按 | Secondary Click | 通常称为右键，用来打开上下文菜单 |
 | 触控板 | Trackpad | 用手指控制指针并完成手势的输入设备 |
 | 输入法 / 输入源 | Input Method / Input Source | 决定如何用键盘输入某种语言或字符 |
+| 插入点 | Insertion Point | 编辑文字时的闪烁竖线，新输入的文字会放在这里 |
+| 剪贴板 | Clipboard | 临时存放拷贝或剪切的内容，供之后粘贴 |
+| 默认应用 | Default App | 打开网页链接或某类文件时通常使用的应用 |
 | 废纸篓 | Trash / Bin | 暂存已移除项目，清倒前通常可找回 |
 | 显示简介 | Get Info | 查看文件或磁盘详细信息的窗口 |
 | 替身 | Alias | 指向另一个项目的快捷入口，不是独立的内容副本 |
 | 文件扩展名 | File Extension | 文件名末尾表示格式的部分，例如 `.pdf` |
+| 文稿版本 | Document Versions | 支持的应用保存的历史内容，不等于独立备份 |
+| 导出 | Export | 将内容输出为另一份文件，常用于交付所需格式 |
 | 磁盘映像 | Disk Image | 可像临时磁盘一样打开的文件，常见后缀 `.dmg` |
 | 安装软件包 | Installer Package | 由安装器执行的安装文件，常见后缀 `.pkg` |
 | Rosetta | Rosetta | 在支持的系统上，让 Apple 芯片运行部分 Intel Mac 应用的兼容机制 |
@@ -43,7 +48,11 @@
 | iCloud 云盘 | iCloud Drive | 在设备之间同步文件的 Apple 服务 |
 | 时间机器 | Time Machine | 为 Mac 文件保存历史备份的内建功能 |
 | 文件保险箱 | FileVault | 限制启动磁盘数据访问的保护功能 |
-| 恢复密钥 | Recovery Key | 特定恢复场景使用的凭据，需按对应服务保存 |
+| 恢复密钥 | Recovery Key | 特定恢复场景使用的凭据，文件保险箱与 Apple 账户的恢复密钥是两种不同凭据 |
+| 蓝牙配对 | Bluetooth Pairing | 让电脑与附近的无线配件建立连接关系 |
+| 镜像显示 | Display Mirroring | 两块屏幕显示同一份桌面内容 |
+| 扩展显示 | Extended Desktop | 将桌面空间延伸到另一块屏幕 |
+| 隔空打印 | AirPrint | 兼容打印机可使用的系统打印方式，通常无需额外安装驱动 |
 | 隔空投送 | AirDrop | 在附近的 Apple 设备之间发送文件的功能 |
 | 迁移助理 | Migration Assistant | 将旧电脑或备份中的资料迁入 Mac 的工具 |
 | 活动监视器 | Activity Monitor | 查看应用和系统进程资源使用情况的工具 |
