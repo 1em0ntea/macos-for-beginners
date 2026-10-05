@@ -12,6 +12,7 @@
 | 菜单栏 | Menu Bar | 屏幕顶部的菜单区域，应用菜单随当前应用变化 |
 | 程序坞 | Dock | 常用应用和部分文件夹的快捷入口 |
 | 访达 | Finder | 浏览与管理文件、文件夹和磁盘的应用 |
+| 个人 / 用户文件夹 | Home Folder | 当前用户的个人文件夹，可从访达“前往 → 个人”打开 |
 | 聚焦 | Spotlight | 搜索应用、文件等内容的系统工具 |
 | 控制中心 | Control Center | 集中调整声音、网络等快速设置的区域 |
 | 系统设置 | System Settings | 更改系统与个人偏好的应用 |
@@ -32,10 +33,13 @@
 | 文件扩展名 | File Extension | 文件名末尾表示格式的部分，例如 `.pdf` |
 | 磁盘映像 | Disk Image | 可像临时磁盘一样打开的文件，常见后缀 `.dmg` |
 | 安装软件包 | Installer Package | 由安装器执行的安装文件，常见后缀 `.pkg` |
+| Rosetta | Rosetta | 在支持的系统上，让 Apple 芯片运行部分 Intel Mac 应用的兼容机制 |
 | 挂载 | Mount | 让磁盘或磁盘映像出现在系统中并可访问 |
 | 推出 | Eject | 安全停止使用某个磁盘或映像，再断开它 |
 | Apple 账户 | Apple Account | 用于 Apple 服务的账户，较早资料称 Apple ID |
 | 本地用户账户 | Local User Account | 用于登录这台 Mac 并保存个人设置的账户 |
+| 密码 | Passwords | 较新 macOS 中管理网站密码、通行密钥等信息的自带应用 |
+| iCloud 钥匙串 | iCloud Keychain | 在获准设备间同步密码等登录信息的 Apple 服务 |
 | iCloud 云盘 | iCloud Drive | 在设备之间同步文件的 Apple 服务 |
 | 时间机器 | Time Machine | 为 Mac 文件保存历史备份的内建功能 |
 | 文件保险箱 | FileVault | 限制启动磁盘数据访问的保护功能 |

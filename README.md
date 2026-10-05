@@ -12,9 +12,10 @@
 
 1. 看[第一章：第一次使用 Mac](docs/01-first-steps.md)，找到系统设置、连接网络并认清自己的账户。
 2. 看[第二章：桌面、菜单栏与应用](docs/02-desktop-and-apps.md)，打开一个应用，分清关闭窗口和退出应用。
-3. 看[第四章：访达与文件](docs/04-finder-and-files.md)，创建并保存第一份文稿。
+3. 看[第三章：键盘、触控板与中文输入](docs/03-keyboard-and-trackpad.md)，认出 Command，试一次右键，并确认能输入中文。
+4. 看[第四章：访达与文件](docs/04-finder-and-files.md)，创建并保存第一份文稿。
 
-先完成这三章中的基础操作，不必一次读完整章。这条入门路线约需 30 分钟，时间不包含系统更新、数据迁移或备份等待。接下来可以每天学一点，跟着[七天练习计划](docs/learning-plan.md)完成一轮。
+先完成这四章中的基础操作，不必一次读完整章。这条入门路线约需 30–45 分钟，时间不包含系统更新、数据迁移或备份等待。接下来可以每天学一点，跟着[七天练习计划](docs/learning-plan.md)完成一轮。
 
 ## 完整目录
 
@@ -23,7 +24,7 @@
 | [01 第一次使用 Mac](docs/01-first-steps.md) | 初次设置、联网、账户、锁屏与关机 | 15 分钟 |
 | [02 桌面、菜单栏与应用](docs/02-desktop-and-apps.md) | 找到入口，打开和退出应用，使用聚焦搜索 | 15 分钟 |
 | [03 键盘、触控板与中文输入](docs/03-keyboard-and-trackpad.md) | 认清按键符号、右键、滚动、输入中文 | 20 分钟 |
-| [04 访达与文件](docs/04-finder-and-files.md) | 保存、查找、重命名、复制、移动和恢复文件 | 25 分钟 |
+| [04 访达与文件](docs/04-finder-and-files.md) | 保存、查找、多选、复制、移动和恢复文件 | 30 分钟 |
 | [05 安装与卸载应用](docs/05-install-and-remove-apps.md) | 看懂 App Store、DMG、PKG，安全安装应用 | 15 分钟 |
 | [06 窗口与多任务](docs/06-windows-and-multitasking.md) | 切换应用、找回窗口、全屏与并排工作 | 15 分钟 |
 | [07 完成一次日常工作](docs/07-everyday-work.md) | 浏览网页、截图、处理 PDF、分享文件 | 25 分钟 |
@@ -37,7 +38,7 @@
 - [Windows → Mac 对照](docs/windows-to-mac.md)：熟悉 Windows 的读者可以先看这里。
 - [术语表](docs/glossary.md)：访达、程序坞、聚焦、磁盘映像分别是什么。
 - [七天练习计划](docs/learning-plan.md)：用真实操作检查自己是否学会。
-- [版本差异与官方参考](docs/references.md)：不同系统版本的入口和资料来源。
+- [版本差异与参考资料](docs/references.md)：官方说明，以及适合继续阅读的前人教程。
 
 ## 如何读操作步骤
 
