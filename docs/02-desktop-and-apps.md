@@ -14,7 +14,7 @@
 | 菜单栏右侧 | 状态项目与控制中心 | 查看或调整网络、声音等状态 |
 | 程序坞里的蓝色笑脸 | 访达（Finder） | 浏览文件、文件夹和磁盘 |
 
-程序坞和菜单栏可以自动隐藏；把指针移到相应的屏幕边缘，它们通常就会出现。这些区域的含义可参考 [Apple 桌面入门说明](https://support.apple.com/zh-cn/guide/mac-help/mchlws12345m2/mac)。
+程序坞和菜单栏可以自动隐藏。把指针移到相应的屏幕边缘，它们通常就会出现。这些区域的含义可参考 [Apple 桌面入门说明](https://support.apple.com/zh-cn/guide/mac-help/mchlws12345m2/mac)。
 
 ## 2. 最省事的应用入口：聚焦
 
