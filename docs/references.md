@@ -31,6 +31,9 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | 主题 | 参考资料 |
 | --- | --- |
 | 完整使用手册 | [Mac 使用手册](https://support.apple.com/zh-cn/guide/mac-help/welcome/mac) |
+| 初次设置与可选账户 | [初次设置中的“稍后设置”选项](https://support.apple.com/zh-cn/guide/mac-pro/apd831707cb3/mac)、[iPhone 或 iPad 辅助设置会带入哪些内容](https://support.apple.com/zh-cn/122216) |
+| 按服务登录 | [App Store 登录与退出](https://support.apple.com/zh-cn/guide/app-store/fir6253293d/mac)、[官方网页登录入口](https://support.apple.com/zh-cn/111001) |
+| 按需启用 iCloud | [登录后的 iCloud 设置](https://support.apple.com/zh-cn/102314)、[停用桌面与文稿同步](https://support.apple.com/zh-cn/126628) |
 | 桌面与入口 | [桌面、菜单栏和程序坞](https://support.apple.com/zh-cn/guide/mac-help/mchlws12345m2/mac) |
 | 常用快捷键 | [基础键盘快捷键](https://support.apple.com/zh-cn/guide/mac-help/mchlgtd_kbd01/mac)、[完整快捷键列表](https://support.apple.com/zh-cn/102650) |
 | 触控板 | [多点触控手势](https://support.apple.com/zh-cn/102482) |
@@ -45,7 +48,8 @@ Apple 的在线手册有版本选择器。不带版本号的链接可能打开�
 | PDF 与标记 | [保存为 PDF](https://support.apple.com/zh-cn/guide/mac-help/mchlp1531/mac)、[标记文件](https://support.apple.com/zh-cn/guide/mac-help/mchl1fd88863/mac) |
 | 分享 | [隔空投送](https://support.apple.com/zh-cn/guide/mac-help/mh35868/mac) |
 | 系统更新 | [更新 macOS](https://support.apple.com/zh-cn/108382) |
-| 密码管理 | [查找已存储密码](https://support.apple.com/zh-cn/105115)、[使用密码应用](https://support.apple.com/zh-cn/120758) |
+| 密码管理 | [查找已存储密码](https://support.apple.com/zh-cn/105115)、[使用密码应用](https://support.apple.com/zh-cn/120758)、[关闭钥匙串同步后的本机保存](https://support.apple.com/zh-cn/109016) |
+| 本地备忘录 | [启用“我的 Mac”账户](https://support.apple.com/zh-cn/guide/notes/not85d6f7b58/mac) |
 | 磁盘数据保护 | [文件保险箱](https://support.apple.com/zh-cn/guide/mac-help/mh11785/mac) |
 | 备份 | [Mac 备份入口](https://support.apple.com/zh-cn/mac-backup)、[时间机器设置](https://support.apple.com/zh-cn/104984)、[时间机器与本地快照](https://support.apple.com/zh-cn/guide/mac-help/mh35860/mac) |
 | 恢复练习 | [从备份排除项目](https://support.apple.com/zh-cn/guide/mac-help/mh15622/mac)、[恢复时间机器备份中的项目](https://support.apple.com/zh-cn/guide/mac-help/mh11422/mac) |

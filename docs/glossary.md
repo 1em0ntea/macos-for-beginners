@@ -36,7 +36,7 @@
 | Rosetta | Rosetta | 在支持的系统上，让 Apple 芯片运行部分 Intel Mac 应用的兼容机制 |
 | 挂载 | Mount | 让磁盘或磁盘映像出现在系统中并可访问 |
 | 推出 | Eject | 安全停止使用某个磁盘或映像，再断开它 |
-| Apple 账户 | Apple Account | 用于 Apple 服务的账户，较早资料称 Apple ID |
+| Apple 账户 / 苹果账号 | Apple Account | 用于 Apple 服务的可选账户，较早资料称 Apple ID，本教程非必要不登录 |
 | 本地用户账户 | Local User Account | 用于登录这台 Mac 并保存个人设置的账户 |
 | 密码 | Passwords | 较新 macOS 中管理网站密码、通行密钥等信息的自带应用 |
 | iCloud 钥匙串 | iCloud Keychain | 在获准设备间同步密码等登录信息的 Apple 服务 |
